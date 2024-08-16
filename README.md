@@ -25,3 +25,15 @@
 </div>
 
 ###
+
+<h6 align="left">Escutando esses dias:</h6>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/22j6odpq6up2gu5flsqfmtmdy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22j6odpq6up2gu5flsqfmtmdy&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
