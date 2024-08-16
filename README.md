@@ -26,7 +26,7 @@
 
 ###
 
-<h6 align="left">Escutando esses dias:</h6>
+<h6 align="left">Escutando esses tempos aí:</h6>
 
 ###
 
