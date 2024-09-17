@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Perfil dedicado à projetos, atividades e anotações de aula do meu curso atual.</p>
+<p align="left">Perfil dedicado à projetos pessoais, atividades e anotações de aula do meu curso atual.</p>
 
 ###
 
