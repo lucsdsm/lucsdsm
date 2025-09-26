@@ -9,9 +9,7 @@
 ###
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,django,docker,react,tailwindcss,javascript,typescript,php" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=python,flask,django,postgres,mysql,docker,react,tailwindcss,javascript,typescript,php,blender">
 </p>
 
 ###
